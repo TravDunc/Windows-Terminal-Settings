@@ -9,7 +9,7 @@ This repository contains the settings.json file I use in Windows Terminal. It ch
 The JSON file references JetBrains Mono NL (Non-ligature) font. That font will need to be installed on your device for this JSON file to work properly. Alternatively, you can change all instances of "JetBrains Mono NL" to something that is already installed on your device (such as "Consolas").
 
 # How to install JetBrains Mono NL fonts:
-  Visit: https://www.jetbrains.com/lp/mono/#how-to-install
+  Visit: <a>https://www.jetbrains.com/lp/mono/#how-to-install</a>
   Click the "Download font" link
   The following instructions come straight from JetBrains:
     - Download font
