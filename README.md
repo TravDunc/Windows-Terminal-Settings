@@ -13,11 +13,11 @@ The JSON file references JetBrains Mono NL (Non-ligature) font. That font will n
   Click the "Download font" link <br>
   The following instructions come straight from JetBrains: <br>
     - Download font <br>
-    - Unzip the archive and install the font: <br>
+    - Unzip the archive and install the font: <br><br>
     **macOS** <br>
-      - Select all font files in the folder and double-click the “Install Font” button. <br>
+      - Select all font files in the folder and double-click the “Install Font” button. <br><br>
     **Windows** <br>
-      - Select all font files in the folder, right-click any of them, then pick “Install” from the menu. <br>
+      - Select all font files in the folder, right-click any of them, then pick “Install” from the menu. <br><br>
     **Linux** <br>
       - Unpack fonts to ~/.local/share/fonts (or /usr/share/fonts, to install fonts system-wide) and fc-cache -f -v <br>
       - Restart your IDE. <br>
