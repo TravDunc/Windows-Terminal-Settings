@@ -2,7 +2,7 @@
 
 This repository contains the settings.json file I use in Windows Terminal. It changes the appearance of applications opened through Windows Terminal, including PowerShell and Kali Linux WSL (if installed).
 
-*NOTE:* The JSON file references JetBrains Mono NL (Non-ligature) font. As is, the JSON file won't work properly unless JetBrains Mono NL fonts are installed on your device. However, the no fonts need to be installed if you change all instances of "JetBrains Mono NL" to a font already installed on your device (such as "Consolas").
+*NOTE:* The JSON file references JetBrains Mono NL (Non-ligature) font. As is, the JSON file won't work properly unless JetBrains Mono NL fonts are installed on your device. If you don't want to install any fonts, you can replace all instances of "JetBrains Mono NL" in the JSON file with a font already installed on your device (e.g., "Consolas").
 
 # How to install or copy the JSON file
   Option 1 - Copy text from repository and paste using Windows Terminal GUI <br><br>
